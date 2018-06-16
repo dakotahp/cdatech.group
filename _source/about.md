@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Coeur d'Alene Tech Group is a user group for tech industry people in or near
+Coeur d'Alene, Idaho. We exist for people involved in the tech scene including
+designers, software developers, system administrators, product people,
+entrepreneurs, and more.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We change up the location each meeting to sample brews from different places in
+Kootenai County. Come hang out and learn from each other in the exciting world
+of tech startups.
