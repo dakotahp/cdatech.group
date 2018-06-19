@@ -24,8 +24,12 @@ docker build -t cdatech:latest .
 and then run it:
 
 ```
-docker run cdatech:latest
+docker run -p 4000:4000 cdatech:latest
 ```
+
+### See it
+
+http://localhost:4000
 
 ## Contributing
 
