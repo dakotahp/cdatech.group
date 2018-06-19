@@ -1,31 +1,25 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Coeur d'Alene Tech Group
-email: dakotah@pena.name
-description: >- # this means to ignore newlines until "baseurl:"
+subtitle: subtitle goes here
+email: organizer@cdatech.group
+description: >-
   The Coeur d'Alene Tech Group is a monthly meeting for tech industry people
   in or near Coeur d'Alene, Idaho. We exist for people involved in the tech scene
   including designers, software developers, system administrators, product people,
   entrepreneurs, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cdatech.group" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  dakotahp
 source: _source
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
 

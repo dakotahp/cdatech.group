@@ -1,4 +1,8 @@
-# Participation
+---
+title: Participation
+icon: fa-home
+order: 1
+---
 
 There are a few ways to participate in our group. We have monthly meetups at
 rotating venues around the Kootenai County. These meet ups are scheduled on the

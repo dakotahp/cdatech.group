@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: Intro
+icon: fa-home
+order: 1
 ---
 
 The Coeur d'Alene Tech Group is a user group for tech industry people in or near
