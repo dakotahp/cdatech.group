@@ -20,6 +20,7 @@ source: _source
 markdown: kramdown
 theme: jekyll-theme-prologue
 remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
 plugins:
   - jekyll-feed
 

@@ -1,6 +1,6 @@
 ---
 title: Participation
-icon: fa-home
+icon: fa-users
 order: 1
 ---
 
