@@ -15,11 +15,16 @@ jekyll serve
 
 ### With Docker
 
-First build the container and then run it:
+First build the container:
 
 ```
-docker build -t cdatech:latest
-docker up
+docker build -t cdatech:latest .
+```
+
+and then run it:
+
+```
+docker run cdatech:latest
 ```
 
 ## Contributing
