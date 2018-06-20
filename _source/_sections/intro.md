@@ -1,11 +1,11 @@
 ---
-title: Intro
+title: Welcome
 icon: fa-home
 order: 1
 ---
 
 The Coeur d'Alene Tech Group is a user group for tech industry people in or near
-Coeur d'Alene, Idaho. We exist for people involved in the tech scene including
+Coeur d'Alene, Idaho. We welcome all people involved in the tech industry including
 designers, software developers, system administrators, product people,
 entrepreneurs, and more.
 

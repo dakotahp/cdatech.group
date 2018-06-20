@@ -1,10 +1,5 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Coeur d'Alene Tech Group
-subtitle: subtitle goes here
+subtitle: Uniting Lake City's technology community
 email: organizer@cdatech.group
 description: >-
   The Coeur d'Alene Tech Group is a monthly meeting for tech industry people
@@ -12,7 +7,7 @@ description: >-
   including designers, software developers, system administrators, product people,
   entrepreneurs, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cdatech.group" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cdatech.group"
 github_username:  dakotahp
 source: _source
 
@@ -23,6 +18,7 @@ remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
