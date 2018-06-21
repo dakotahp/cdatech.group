@@ -6,9 +6,9 @@ description: >-
   in or near Coeur d'Alene, Idaho. We exist for people involved in the tech scene
   including designers, software developers, system administrators, product people,
   entrepreneurs, and more.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dakotahp.github.io/cdatech.group/"
-github_username:  dakotahp
+baseurl: "/cdatech.group" # the subpath of your site, e.g. /blog
+url: "https://dakotahp.github.io/cdatech.group"
+github_username: dakotahp
 source: _source
 
 # Build settings
