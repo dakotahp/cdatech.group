@@ -9,4 +9,4 @@ RUN cd $JEKYLL_ROOT/_source && bundle install
 VOLUME $JEKYLL_ROOT
 WORKDIR $JEKYLL_ROOT
 EXPOSE 4000
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "--source", "/var/www/cdatech.group/_source"]
+CMD ["jekyll", "serve", "-H", "0.0.0.0"]
