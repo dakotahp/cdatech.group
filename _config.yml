@@ -7,7 +7,7 @@ description: >-
   including designers, software developers, system administrators, product people,
   entrepreneurs, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cdatech.group"
+url: "https://dakotahp.github.io/cdatech.group/"
 github_username:  dakotahp
 source: _source
 
