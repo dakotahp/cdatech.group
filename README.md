@@ -18,18 +18,29 @@ jekyll serve
 First build the container:
 
 ```
-docker build -t cdatech:latest .
+./bin/build
 ```
 
 and then run it:
 
 ```
-docker run -p 4000:4000 cdatech:latest
+./bin/start
 ```
+
+See individual scripts for Docker commands that have been abstracted out.
 
 ### See it
 
 http://localhost:4000
+
+## Composing Blog Posts
+
+The project has [jekyll-compose](https://github.com/jekyll/jekyll-compose) which
+allows creation of blog posts using:
+
+```
+jekyll post "My New Post"
+```
 
 ## Contributing
 
