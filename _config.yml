@@ -8,7 +8,9 @@ description: >-
   entrepreneurs, and more.
 baseurl: "/cdatech.group" # the subpath of your site, e.g. /blog
 url: "https://dakotahp.github.io/"
-github_username: dakotahp
+github_url: https://github.com/dakotahp/cdatech.group
+slack_url: https://cdatechgroup.slack.com
+meetup_url: https://www.meetup.com/Coeur-dAlene-Tech-Group/
 
 # Build settings
 markdown: kramdown
