@@ -4,8 +4,7 @@ RUN apt-get update -qq && apt-get install -y build-essential
 WORKDIR $JEKYLL_ROOT
 COPY Gemfile Gemfile
 COPY Gemfile.lock Gemfile.lock
-COPY . .
-RUN gem install bundler
 RUN bundle install
+COPY . .
 EXPOSE 4000
 CMD ["jekyll", "serve", "-H", "0.0.0.0"]
