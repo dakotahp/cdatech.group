@@ -6,8 +6,8 @@ description: >-
   in or near Coeur d'Alene, Idaho. We exist for people involved in the tech scene
   including designers, software developers, system administrators, product people,
   entrepreneurs, and more.
-baseurl: "/cdatech.group" # the subpath of your site, e.g. /blog
-url: "https://dakotahp.github.io/"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cdatech.group/"
 github_url: https://github.com/dakotahp/cdatech.group
 slack_url: https://cdatechgroup.slack.com
 meetup_url: https://www.meetup.com/Coeur-dAlene-Tech-Group/
