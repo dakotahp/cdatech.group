@@ -30,6 +30,9 @@
   {%- if site.email -%}
   <li><a href="mailto:{{- site.email -}}" class="icon fa-envelope"><span class="label">Email</span></a></li>
   {%- endif -%}
+  {%- if site.feed_url -%}
+  <li><a href="{{- site.feed_url -}}" class="icon fa-rss"><span class="label">Atom Feed</span></a></li>
+  {%- endif -%}
   {%- if site.meetup_url -%}
   <li><a href="{{- site.meetup_url -}}" class="icon fa-meetup"><span class="label">Meetup</span></a></li>
   {%- endif -%}

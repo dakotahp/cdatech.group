@@ -3,14 +3,13 @@ subtitle: Uniting Lake City's technology community
 email: dakotah@pena.name
 description: >-
   The Coeur d'Alene Tech Group is a monthly meeting for tech industry people
-  in or near Coeur d'Alene, Idaho. We exist for people involved in the tech scene
-  including designers, software developers, system administrators, product people,
-  entrepreneurs, and more.
+  in or near Coeur d'Alene, Idaho.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cdatech.group/"
 github_url: https://github.com/dakotahp/cdatech.group
 slack_url: http://slack.cdatech.group
 meetup_url: https://www.meetup.com/Coeur-dAlene-Tech-Group/
+feed_url: /feed.xml
 
 # Build settings
 markdown: kramdown
