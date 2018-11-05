@@ -11,4 +11,4 @@ ups are scheduled on the [Meetup.com page](https://www.meetup.com/Coeur-dAlene-T
 sign up to attend.
 
 There is also a [Slack](https://slack.com/) channel to chat in between the monthly meetups. You can
-[request an automatic invite](https://slack.cdatech.group).
+[request an automatic invite](http://slack.cdatech.group).
