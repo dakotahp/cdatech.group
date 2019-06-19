@@ -34,29 +34,3 @@ footer {
   margin-bottom: 50px;
   font-family: 'Inconsolata', monospace;
 }
-
-#primary-nav {
-  font-family: 'Inconsolata', monospace;
-  text-transform: lowercase;
-  font-size: 1.5rem;
-}
-
-#primary-nav a,
-#primary-nav a:visited,
-#primary-nav a:active {
-  color: #5f5e5f;
-  text-decoration: none;
-}
-
-#primary-nav a.active {
-  color: red;
-}
-
-#primary-nav li {
-  margin: 0 10px;
-}
-/* #primary-nav li:first-child::before {
-  content: "$";
-  color: #9c9d9d;
-  margin-right: 20px;
-} */

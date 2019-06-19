@@ -7,19 +7,18 @@
 </div>
 
 <div class="grid-x">
-  <section class="cell small-8">
+  <section class="cell small-8 blog-index-container">
     {{ range (.Paginate ( first 10 .Pages.ByDate.Reverse )).Pages }}
-        <article>
-          <!-- this <div> includes the title summary -->
+        <article class="spacer-top-10">
           <div>
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             {{ .Summary }}
           </div>
+
           {{ if .Truncated }}
-          <!-- This <div> includes a read more link, but only if the summary is truncated... -->
-          <div>
-            <a href="{{ .RelPermalink }}">Read More…</a>
-          </div>
+            <div class="spacer-top-4">
+              <a href="{{ .RelPermalink }}">Read more…</a>
+            </div>
           {{ end }}
         </article>
     {{ end }}

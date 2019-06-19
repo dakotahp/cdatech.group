@@ -6,3 +6,24 @@
 #header svg {
   width: 320px;
 }
+
+#primary-nav {
+  font-family: 'Inconsolata', monospace;
+  text-transform: lowercase;
+  font-size: 1.5rem;
+
+  a,
+  a:visited,
+  a:active {
+    color: #5f5e5f;
+    text-decoration: none;
+  }
+
+  a.active {
+    // color: red;
+  }
+
+  li {
+    margin: 0 10px;
+  }
+}
