@@ -14,4 +14,6 @@ If you are interested in presenting then tell us the title, brief summary of
 your proposed presentation, and a brief bio about yourself. Please see past
 Meetups for examples.
 
-[Submit your proposal](https://forms.gle/t1qCD9CxvyDSeXEh6)
+<a href="https://forms.gle/t1qCD9CxvyDSeXEh6" class="button">Submit your proposal</a>
+
+<a href="/slack" class="spacer-top-10">Join our slack group &rarr;</a>

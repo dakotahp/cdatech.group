@@ -10,3 +10,5 @@ weight: 3
 
 We have a Slack channel to chat in between the monthly meetups. You can [request
 an automatic invite]({{ ref .Config.Params.slackUrl }}).
+
+<a href="/blog/" class="spacer-top-10">Check out our blog &rarr;</a>

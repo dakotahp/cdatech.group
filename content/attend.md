@@ -14,3 +14,5 @@ meet ups are scheduled on
 
 We also have a [Slack group](http://slack.cdatech.group/) to chat in between
 the monthly meetups. You can request an automatic invite.
+
+<a href="/present" class="spacer-top-10">Give a presentation &rarr;</a>
