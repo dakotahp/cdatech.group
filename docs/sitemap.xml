@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cdatech.group/</loc>
-    <lastmod>2018-10-09T09:23:10+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cdatech.group/attend/</loc>
     <lastmod>2018-10-09T09:44:51+02:00</lastmod>
   </url>
@@ -23,8 +18,8 @@
   </url>
   
   <url>
-    <loc>https://cdatech.group/blog/2019-06-30-techtalk/</loc>
-    <lastmod>2019-06-13T09:44:51+02:00</lastmod>
+    <loc>https://cdatech.group/slack/</loc>
+    <lastmod>2018-10-09T09:44:51+02:00</lastmod>
   </url>
   
   <url>
@@ -33,13 +28,18 @@
   </url>
   
   <url>
-    <loc>https://cdatech.group/slack/</loc>
-    <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+    <loc>https://cdatech.group/blog/2019-06-30-techtalk/</loc>
+    <lastmod>2019-06-13T09:44:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://cdatech.group/contact/</loc>
     <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cdatech.group/</loc>
+    <lastmod>2018-10-09T09:23:10+02:00</lastmod>
   </url>
   
   <url>

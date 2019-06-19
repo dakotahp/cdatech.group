@@ -6,6 +6,7 @@
     <description>Recent content in Home on Coeur d&#39;Alene Tech Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© Coeur d&#39;Alene Tech Group</copyright>
     <lastBuildDate>Tue, 09 Oct 2018 09:23:10 +0200</lastBuildDate>
     
 	<atom:link href="https://cdatech.group/index.xml" rel="self" type="application/rss+xml" />
@@ -44,6 +45,15 @@ Submit your proposal</description>
     </item>
     
     <item>
+      <title>Slack</title>
+      <link>https://cdatech.group/slack/</link>
+      <pubDate>Tue, 09 Oct 2018 09:44:51 +0200</pubDate>
+      
+      <guid>https://cdatech.group/slack/</guid>
+      <description>Slack Channel We have a Slack channel to chat in between the monthly meetups. You can request an automatic invite.</description>
+    </item>
+    
+    <item>
       <title>Tech talk night</title>
       <link>https://cdatech.group/blog/2019-06-30-techtalk/</link>
       <pubDate>Thu, 13 Jun 2019 09:44:51 +0200</pubDate>
@@ -52,15 +62,6 @@ Submit your proposal</description>
       <description>Tech Talks, June 26th Come join us for our inaugural Tech Talk Night and learn something new from our three presentations. This is a new format and will be recurring monthly going forward.
 Introduction to Elixir By Karmen Blake
 Come get an introduction to a language whose syntax and ecosystem are top-notch and actively been in development since 2012. Built on top of the BEAM (Erlang Virtual Machine) it relies on decades of industry-strength stability of Erlang.</description>
-    </item>
-    
-    <item>
-      <title>Slack</title>
-      <link>https://cdatech.group/slack/</link>
-      <pubDate>Tue, 09 Oct 2018 09:44:51 +0200</pubDate>
-      
-      <guid>https://cdatech.group/slack/</guid>
-      <description>Slack Channel We have a Slack channel to chat in between the monthly meetups. You can request an automatic invite.</description>
     </item>
     
     <item>
