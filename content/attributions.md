@@ -2,7 +2,6 @@
 title: "Attributions"
 date: 2018-10-09T09:44:51+02:00
 draft: false
-weight: 3
 ---
 
 # Attributions

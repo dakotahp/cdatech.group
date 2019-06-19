@@ -8,3 +8,8 @@ copyright = "© Coeur d'Alene Tech Group"
 [params]
   contactEmail = "dakotah@lakedistrict.space"
   slackUrl = "http://slack.cdatech.group/"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
