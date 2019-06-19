@@ -1,3 +1,7 @@
+@import "_blog";
+@import "_homepage";
+@import "_pages";
+
 .spacer-top-10 { margin-top: 50px; }
 .spacer-bottom-10 { margin-bottom: 50px; }
 .padder-top-10 { padding-top: 50px; }
@@ -14,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', 'Helvetica', sans-serif;
+  font-family: 'Montserrat', 'Helvetica', sans-serif;
 }
 
 /* Helpers */
@@ -60,37 +64,3 @@ footer {
   color: #9c9d9d;
   margin-right: 20px;
 } */
-
-/* Homepage USPs */
-
-#home-trilogy {
-  background-color: #919191;
-  color: #fff; /*#5e5e5e;*/
-}
-
-#home-trilogy h4 { font-weight: 600; }
-
-#home-trilogy a, #home-trilogy a:visited {
-  color: #fff;
-}
-
-#home-trilogy svg {
-  max-width: 120px;
-}
-
-#home-trilogy svg path,
-#home-trilogy svg circle {
-  fill: #fff;
-}
-
-/* Pages */
-.page-container {
-  margin-left: 150px;
-  margin-right: 150px;
-}
-
-.page-container > h1 {
-  margin-bottom: 50px;
-}
-
-/* Blog */

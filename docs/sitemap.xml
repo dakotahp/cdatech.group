@@ -5,63 +5,87 @@
   <url>
     <loc>https://cdatech.group/attend/</loc>
     <lastmod>2018-10-09T09:44:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cdatech.group/attributions/</loc>
-    <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/present/</loc>
     <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/slack/</loc>
     <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/blog/</loc>
     <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/blog/2019-06-30-techtalk/</loc>
     <lastmod>2019-06-13T09:44:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdatech.group/attributions/</loc>
+    <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/contact/</loc>
     <lastmod>2018-10-09T09:44:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/</loc>
     <lastmod>2018-10-09T09:23:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cdatech.group/categories/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/blog/2018-07-14-july-meeting-recap/</loc>
+    <lastmod>2018-07-14T17:32:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cdatech.group/tags/</loc>
+    <loc>https://cdatech.group/categories/</loc>
+    <lastmod>2018-07-09T18:01:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/blog/2018-07-09-upcoming-meeting-on-thursday/</loc>
+    <lastmod>2018-07-09T18:01:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cdatech.group/categories/meetings/</loc>
+    <lastmod>2018-07-09T18:01:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdatech.group/tags/</loc>
     <priority>0</priority>
   </url>
   

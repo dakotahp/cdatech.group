@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Coeur d&#39;Alene Tech Group</copyright>
+    <lastBuildDate>Mon, 09 Jul 2018 18:01:00 -0700</lastBuildDate>
     
 	<atom:link href="https://cdatech.group/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>meetings</title>
       <link>https://cdatech.group/categories/meetings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jul 2018 18:01:00 -0700</pubDate>
       
       <guid>https://cdatech.group/categories/meetings/</guid>
       <description></description>
