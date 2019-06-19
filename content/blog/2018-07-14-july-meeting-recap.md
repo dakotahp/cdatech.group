@@ -1,7 +1,7 @@
 ---
-layout: post
-title: July Meeting Recap
-date: 2018-07-14T17:32-0700
+title: "July Meeting Recap"
+date: 2018-07-14T17:32:00-0700
+menu: "blog"
 ---
 
 ![Beers and menu]({{ "/assets/images/07-18/IMG_3159.jpg" | absolute_url }})
