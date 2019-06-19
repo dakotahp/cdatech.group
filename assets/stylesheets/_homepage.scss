@@ -1,4 +1,8 @@
-/* Homepage USPs */
+#hero {
+  h1 {
+    font-weight: 600;
+  }
+}
 
 #home-trilogy {
   background-color: #919191;
@@ -12,7 +16,7 @@
 }
 
 #home-trilogy svg {
-  max-width: 120px;
+  max-width: 100px;
 }
 
 #home-trilogy svg path,

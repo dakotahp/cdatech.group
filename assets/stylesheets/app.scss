@@ -1,11 +1,12 @@
+@import "_spacers";
+@import "_padders";
+@import "_global";
 @import "_blog";
 @import "_homepage";
 @import "_pages";
 
 .spacer-top-10 { margin-top: 50px; }
 .spacer-bottom-10 { margin-bottom: 50px; }
-.padder-top-10 { padding-top: 50px; }
-.padder-bottom-10 { padding-bottom: 50px; }
 
 body {
   background-color: #ccc;
@@ -27,11 +28,6 @@ ul.inline li {
 }
 
 .text-right { text-align: right; }
-
-header {
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
 
 footer {
   margin-top: 85px;
