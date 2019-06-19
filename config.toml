@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Coeur d'Alene Tech Group"
 sectionPagesMenu = "main"
 publishDir = "docs"
+copyright = "© Coeur d'Alene Tech Group"
 
 [params]
   contactEmail = "dakotah@lakedistrict.space"
+  slackUrl = "http://slack.cdatech.group/"

@@ -3,7 +3,7 @@ title: "Attend"
 date: 2018-10-09T09:44:51+02:00
 draft: false
 menu: "main"
-weight: 2
+weight: 1
 ---
 
 # Attend a Meeting
