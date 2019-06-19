@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<div class="grid-x">
+  <section class="cell small-8">
+    {{ .Content }}
+  </section>
+
+  {{ partial "sidebar.html" . }}
+</div>
+
+{{ end }}

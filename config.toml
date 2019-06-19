@@ -1,0 +1,8 @@
+baseURL = "https://cdatech.group/"
+languageCode = "en-us"
+title = "Coeur d'Alene Tech Group"
+sectionPagesMenu = "main"
+publishDir = "docs"
+
+[params]
+  contactEmail = "dakotah@lakedistrict.space"
