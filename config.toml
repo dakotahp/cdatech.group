@@ -6,7 +6,9 @@ publishDir = "docs"
 copyright = "© Coeur d'Alene Tech Group"
 
 [params]
+  author = "Group Organizer"
   contactEmail = "dakotah@lakedistrict.space"
+  dateFormat = "Jan 2, 2006"
   slackUrl = "http://slack.cdatech.group/"
 
 [sitemap]

@@ -20,7 +20,7 @@
   }
 
   a.active {
-    // color: red;
+    color: $active-nav-color;
   }
 
   li {
@@ -28,10 +28,24 @@
   }
 }
 
+a,
+a:visited,
+a:active {
+  color: $link-color;
+  text-decoration: none;
+}
+
 
 footer {
   margin-top: 85px;
   margin-bottom: 50px;
   font-family: 'Inconsolata', monospace;
-  color: #9fa0a0;
+  color: $text-very-muted-color;
+
+  a,
+  a:visited,
+  a:active {
+    color: $text-very-muted-color;
+    text-decoration: underline;
+  }
 }

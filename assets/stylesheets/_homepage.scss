@@ -5,11 +5,15 @@
 }
 
 #home-trilogy {
-  background-color: #919191;
+  background-color: $gray;
   color: #fff;
+
+  .meetings svg path { fill: $red; }
+  .talks  svg path, .talks svg circle { fill: $aqua; }
+  .slack svg path { fill: $yellow; }
 }
 
-#home-trilogy h4 { font-weight: 600; }
+
 
 #home-trilogy a, #home-trilogy a:visited {
   color: #fff;
