@@ -2,6 +2,11 @@
   h1 {
     font-weight: 600;
   }
+
+  .description {
+    font-family: "Montserrat", sans-serif;
+    margin-top: -100px;
+  }
 }
 
 #home-trilogy {
@@ -12,8 +17,6 @@
   .talks  svg path, .talks svg circle { fill: $aqua; }
   .slack svg path { fill: $yellow; }
 }
-
-
 
 #home-trilogy a, #home-trilogy a:visited {
   color: #fff;

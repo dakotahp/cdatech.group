@@ -19,8 +19,24 @@
     text-decoration: none;
   }
 
-  a.active {
-    color: $active-nav-color;
+  li:nth-child(1) a:hover,
+  li:nth-child(1) a.active {
+    color: darken($purple, 10%);
+  }
+
+  li:nth-child(2) a:hover,
+  li:nth-child(2) a.active {
+    color: darken($yellow, 20%);
+  }
+
+  li:nth-child(3) a:hover,
+  li:nth-child(3) a.active {
+    color: darken($green, 10%);
+  }
+
+  li:nth-child(4) a:hover,
+  li:nth-child(4) a.active {
+    color: darken($red, 10%);
   }
 
   li {
@@ -31,7 +47,10 @@
 a,
 a:visited,
 a:active {
-  color: $link-color;
+  &:not(.button) {
+    color: $link-color;
+  }
+
   text-decoration: none;
 }
 
@@ -47,5 +66,14 @@ footer {
   a:active {
     color: $text-very-muted-color;
     text-decoration: underline;
+  }
+}
+
+.button {
+  background-color: $red;
+  color: #fff;
+
+  &:hover {
+    background-color: darken($red, 15%);
   }
 }
