@@ -19,3 +19,11 @@
     font-weight: 600;
   }
 }
+
+.orbit-bullets button {
+  background-color: $gray;
+}
+
+.orbit-bullets button.is-active {
+  background-color: $purple;
+}
