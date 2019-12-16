@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Coeur d&#39;Alene Tech Group</title>
@@ -20,7 +20,7 @@
       <guid>https://cdatech.group/attend/</guid>
       <description>Attend a Meeting We have monthly meetups at rotating venues around Kootenai County, Idaho. These meet ups are scheduled on the Meetup.com page to track attendance.
 We also have a Slack group to chat in between the monthly meetups. You can request an automatic invite.
-Give a presentation &amp;rarr;</description>
+Give a presentation →</description>
     </item>
     
     <item>
@@ -31,8 +31,7 @@ Give a presentation &amp;rarr;</description>
       <guid>https://cdatech.group/present/</guid>
       <description>Give a Presentation We feature presentations on a monthly basis and always welcome more topics.
 If you are interested in presenting then tell us the title, brief summary of your proposed presentation, and a brief bio about yourself. Please see past Meetups for examples.
-Submit your proposal
-Join our slack group &amp;rarr;</description>
+Submit your proposalJoin our slack group →</description>
     </item>
     
     <item>
@@ -42,7 +41,7 @@ Join our slack group &amp;rarr;</description>
       
       <guid>https://cdatech.group/slack/</guid>
       <description>Slack Channel We have a Slack channel to chat in between the monthly meetups. You can request an automatic invite.
-Check out our blog &amp;rarr;</description>
+Check out our blog →</description>
     </item>
     
     <item>
@@ -52,8 +51,8 @@ Check out our blog &amp;rarr;</description>
       
       <guid>https://cdatech.group/blog/2019-06-30-techtalk/</guid>
       <description>Come join us for our inaugural Tech Talk Night and learn something new from our three presentations. This is a new format and will be recurring monthly going forward.
-Previous Slide&amp;#9664;&amp;#xFE0E; Next Slide&amp;#9654;&amp;#xFE0E;  Elixir presentation   Post discussion       First slide details. Current Slide  Second slide details. Third slide details.   Introduction to Elixir By Karmen Blake
- Come get an introduction to a language whose syntax and ecosystem are top-notch and actively been in development since 2012.</description>
+ Introduction to Elixir By Karmen Blake
+ Come get an introduction to a language whose syntax and ecosystem are top-notch and actively been in development since 2012. Built on top of the BEAM (Erlang Virtual Machine) it relies on decades of industry-strength stability of Erlang.</description>
     </item>
     
     <item>
@@ -82,8 +81,11 @@ Slack icon Created by Henning Gross from the Noun Project</description>
       <pubDate>Sat, 14 Jul 2018 17:32:00 -0700</pubDate>
       
       <guid>https://cdatech.group/blog/2018-07-14-july-meeting-recap/</guid>
-      <description>We had a great turnout for July. Several new folks showed up from different tech related industries like home automation.
-How to Find The Group I&amp;rsquo;m not sure if everybody who RSVPed was in attendance and I apologize if you missed the notification of where to find us. I had sent out a notification to those that were planning to attend around 2pm and then a couple more people RSVPed and didn&amp;rsquo;t get the notification.</description>
+      <description>![Beers and menu]({{ &amp;ldquo;/assets/images/07-18/IMG_3159.jpg&amp;rdquo; | absolute_url }})
+We had a great turnout for July. Several new folks showed up from different tech related industries like home automation.
+![Fluffy dog]({{ &amp;ldquo;/assets/images/07-18/IMG_3157.jpg&amp;rdquo; | absolute_url }})
+![Beers]({{ &amp;ldquo;/assets/images/07-18/IMG_3158.jpg&amp;rdquo; | absolute_url }})
+How to Find The Group I&#39;m not sure if everybody who RSVPed was in attendance and I apologize if you missed the notification of where to find us. I had sent out a notification to those that were planning to attend around 2pm and then a couple more people RSVPed and didn&#39;t get the notification.</description>
     </item>
     
     <item>
@@ -93,9 +95,7 @@ How to Find The Group I&amp;rsquo;m not sure if everybody who RSVPed was in atte
       
       <guid>https://cdatech.group/blog/2018-07-09-upcoming-meeting-on-thursday/</guid>
       <description>As a reminder, we have an upcoming meeting this Thursday, July 12, 2018 at 6:00pm. The venue this time around is Mad Bomber Brewing in Hayden. Further details on how to find the group will be sent out the day of the meeting.
-Mad Bomber Brewing
-9265 N Government Way
-Hayden, ID 83835</description>
+Mad Bomber Brewing9265 N Government WayHayden, ID 83835</description>
     </item>
     
   </channel>

@@ -9,6 +9,6 @@ weight: 3
 # Slack Channel
 
 We have a Slack channel to chat in between the monthly meetups. You can [request
-an automatic invite]({{ ref .Config.Params.slackUrl }}).
+an automatic invite](http://slack.cdatech.group/).
 
 <a href="/blog/" class="spacer-top-10">Check out our blog &rarr;</a>
