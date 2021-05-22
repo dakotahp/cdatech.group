@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Coeur d&#39;Alene Tech Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Coeur d&#39;Alene Tech Group</copyright>
-    
-	<atom:link href="https://cdatech.group/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© Coeur d&#39;Alene Tech Group</copyright><atom:link href="https://cdatech.group/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
